@@ -105,6 +105,3 @@ For a detailed guide, check `deployment_guide.md` in the project root.
 
 Contributions are welcome! Please feel free to wait for future updates or submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
